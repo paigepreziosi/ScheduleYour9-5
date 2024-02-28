@@ -10,8 +10,23 @@ $(function () {
       var time = $(this).parent().attr("id");
   
       localStorage.setItem(time, text);
-    })
-  })
+
+      alert("Your change was saved to local storage!");
+    });
+  });
+
+  function showNotification(message) {
+    if ("Notification" in window) {
+      Notification.requestPermission().then(function (permission) {
+        if (permission === "granted") {
+          var notification = new Notification("Work Day Scheduler", {
+            body: message,
+          });
+        }
+      });
+    }
+  }
+  
 
   function timeTracker() {
     var currentTime = dayjs().hour();

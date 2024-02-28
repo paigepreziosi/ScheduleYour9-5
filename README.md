@@ -39,6 +39,7 @@ This project is a daily planner that allows the user to save events for each hou
 3. JS
 4. Dayjs
 5. Visual Studio Code 2
+6. Bootstrap
 
 ## 5. Installation
 1. Clone the repository: "git@github.com:paigepreziosi/ScheduleYour9-5.git"

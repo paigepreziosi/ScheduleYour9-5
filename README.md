@@ -1,5 +1,6 @@
-<img width="1480" alt="Screenshot 2024-02-28 at 5 59 36 PM" src="https://github.com/paigepreziosi/ScheduleYour9-5/assets/151070992/df44a674-b7ec-4c95-9f26-ddd40aa6ffb3">
 <img width="1486" alt="Screenshot 2024-02-28 at 5 59 29 PM" src="https://github.com/paigepreziosi/ScheduleYour9-5/assets/151070992/c6b1999b-67d0-439d-bad3-4472a50c46a7"
+<img width="1480" alt="Screenshot 2024-02-28 at 5 59 36 PM" src="https://github.com/paigepreziosi/ScheduleYour9-5/assets/151070992/df44a674-b7ec-4c95-9f26-ddd40aa6ffb3">
+
 
 # Schedule Your 9-5, Third-Party API WorkDay Scheduler
 
